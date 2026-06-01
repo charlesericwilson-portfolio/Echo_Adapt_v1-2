@@ -1,4 +1,4 @@
-# Echo - Local Red Team AI Agent tool
+# Echo - Local CLI tool use wrapper
 
 **A fast, local AI tool wrapper that executes shell commands safely via `COMMAND: your command` lines from a custom LLM.**
 
